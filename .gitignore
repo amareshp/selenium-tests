@@ -1,0 +1,5 @@
+*.class
+*.log
+# Folders #
+/test-output/
+/target/
